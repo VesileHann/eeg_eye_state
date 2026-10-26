@@ -167,7 +167,7 @@ Ensure you have Python 3.8 or higher installed on your system.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/eeg_eye_state.git
+git clone https://github.com/VesileHann/eeg_eye_state.git
 cd eeg_eye_state
 ```
 
